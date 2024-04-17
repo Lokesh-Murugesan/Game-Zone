@@ -1,4 +1,4 @@
-# Video_Games_Sales_Analysis
+# Game Zone
 
 ### INSTALLATION
 
