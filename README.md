@@ -1,4 +1,4 @@
-# Game Zone
+# Video_Games_Sales_Analysis_Using_Microsoft_PowwerBI
 
 ### INSTALLATION
 
